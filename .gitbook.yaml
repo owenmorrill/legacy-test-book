@@ -1,8 +1,5 @@
-root: ./
+root: ./book/
 
 structure:
 	readme: README.md
-	summary: SUMMARY.md
-
-redirects:
-	previous/page: book/intro.md
+	summary: SUMMARY.md≈
