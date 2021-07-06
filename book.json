@@ -1,5 +1,13 @@
 {
+  "title": "Owen Test Gitbook Thing",
+  "author": "Owen",
+  "output.name": "Test book",
+  "gitbook": "1.0.0",
+  "root": "./book",
+  "styles": {
+    "website": "styles/website.css"
+  },
   "variables": {
-    "myVariable": "Owen rules"
+    "myVariable": "Owen rules!"
   }
 }
