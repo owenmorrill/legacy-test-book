@@ -6,4 +6,4 @@ structure:
 
 redirects:
 	sitemap: book/SUMMARY.md
-	test: book/TEST.md
+	owen/owen: book/TEST.md
