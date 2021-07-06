@@ -6,4 +6,4 @@ I don't know if the templating is working...
     this will {{ not be processed }}
 {% endraw %}
 
-{{ book.myVariable }}
+{{ test-book.myVariable }}
