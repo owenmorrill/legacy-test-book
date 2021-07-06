@@ -5,4 +5,9 @@ structure:
 	summary: SUMMARY.md
 
 redirects:
-	help/contact: ./contact.md
+	help/contact: contact.md
+	make/contact: /contact.md
+	you/contact: ./contact.md
+	better/contact: ./book/contact.md
+	butter/contact: ../contact.md
+	ron/contact: ./README.md
