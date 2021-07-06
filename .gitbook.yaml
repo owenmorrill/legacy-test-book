@@ -1,6 +1,7 @@
 root: ./book/
 
 structure:
+	test: TEST.md
 	readme: README.md
 	summary: SUMMARY.md
 
