@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a967fed-23f9-4128-8d28-b55e9ee22c9d" name="Default Changelist" comment="" />
+    <list default="true" id="3a967fed-23f9-4128-8d28-b55e9ee22c9d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/book/book.json" beforeDir="false" afterPath="$PROJECT_DIR$/book.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +25,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/book" />
     </key>
   </component>
