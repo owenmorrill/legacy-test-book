@@ -21,8 +21,3 @@ Tasks
 * nice.
 * good work
 
-{% raw %}
-    this will {{ not be processed }}
-{% endraw %}
-
-{{ book.myVariable }}
