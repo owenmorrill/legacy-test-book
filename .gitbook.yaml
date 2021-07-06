@@ -5,12 +5,4 @@ structure:
 	summary: SUMMARY.md
 
 redirects:
-	sitemap: ./TEST.md
-	a: TEST.md
-	b: ./TEST.md
-	c: test.md
-	d: ./test.md
-	e: ./book/test.md
-	f: ../book/test.md
-	g: book/test.d
-	h: test
+	help/contact: ./contact.md
