@@ -19,3 +19,9 @@ Tasks
 1. And a numbered list
 2. nice.
 3. good work
+
+{% raw %}
+this will {{ book.myVariable }}
+{% endraw %}
+
+{{ book.myVariable }}
