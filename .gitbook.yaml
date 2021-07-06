@@ -13,4 +13,4 @@ redirects:
 	e: ./book/test.md
 	f: ../book/test.md
 	g: book/test.d
-	h: book/TEST.md
+	h: test
