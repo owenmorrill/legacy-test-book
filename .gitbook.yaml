@@ -2,7 +2,8 @@ root: ./book/
 
 structure:
 	readme: README.md
-	summary: SUMMARY.md≈
+	summary: SUMMARY.md
 
-variables:
-	myVariable: "Owen does not rule."
+redirects:
+	sitemap: book/SUMMARY.md
+	test: book/TEST.md
