@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a967fed-23f9-4128-8d28-b55e9ee22c9d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/book.json" beforeDir="false" afterPath="$PROJECT_DIR$/book.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitbook.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitbook.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/book/SUMMARY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/gui-test-page.md" beforeDir="false" afterPath="$PROJECT_DIR$/book/gui-test-page.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +15,10 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1uxDQ3FvcXzY6kfPiaAaZLadnxw" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -54,6 +61,8 @@
       <option name="presentableId" value="Default" />
       <updated>1625583562083</updated>
       <workItem from="1625583564535" duration="1039000" />
+      <workItem from="1625598327814" duration="2581000" />
+      <workItem from="1625671479436" duration="205000" />
     </task>
     <servers />
   </component>
