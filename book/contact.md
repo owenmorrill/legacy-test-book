@@ -1,3 +1,0 @@
-# Contact
-
-Everybody hurts... hold on.... hold on...
