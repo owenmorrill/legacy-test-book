@@ -1,2 +1,0 @@
-# Fixing and prioritizing issues
-
