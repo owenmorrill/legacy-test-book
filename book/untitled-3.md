@@ -1,4 +1,6 @@
-# Integrations \| Snyk
+# What is a Snyk Patch?
 
-Snyk provides integrations with a wide range of products, applications and platforms, for example SCM systems such as GitHub.
+A patch will make the minimum changes required to your locally installed package files in order to fix the vulnerability and is a good option to fix vulnerabilities when you can’t upgrade. 
+
+If you’re monitoring your project we will notify you once an upgrade becomes available.
 
