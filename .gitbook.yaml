@@ -3,3 +3,6 @@ root: ./book
 structure:
 	readme: README.md
 	summary: SUMMARY.md
+
+redirects:
+	help: ./test-this-shit-out-xxx.md
