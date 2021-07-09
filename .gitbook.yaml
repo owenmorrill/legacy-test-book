@@ -5,4 +5,4 @@ structure:
 	summary: SUMMARY.md
 
 redirects:
-	help: ./asdf1.md
+	help: asdf1.md
