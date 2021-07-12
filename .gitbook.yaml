@@ -1,8 +1,8 @@
 root: ./book/
 
 structure:
-	readme: README.md
-	summary: SUMMARY.md
+  readme: README.md
+  summary: SUMMARY.md
 
 redirects:
-	help: ./asdf1.md
+  help: ./asdf1.md
