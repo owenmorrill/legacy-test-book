@@ -1,0 +1,3 @@
+[submodule "snyk"]
+	path = snyk
+	url = https://github.com/snyk/snyk.git
