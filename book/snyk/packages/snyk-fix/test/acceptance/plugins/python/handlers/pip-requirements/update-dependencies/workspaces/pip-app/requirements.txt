@@ -1,3 +1,0 @@
--r base.txt
--r base2.txt
-Django==1.6.1

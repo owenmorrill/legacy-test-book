@@ -1,3 +1,0 @@
-click>7.0
-Django>1.6
--r base2.txt
