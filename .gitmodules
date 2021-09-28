@@ -1,1 +1,4 @@
 
+[submodule "user-docs"]
+	path = user-docs
+	url = https://github.com/snyk/user-docs
