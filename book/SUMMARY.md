@@ -9,5 +9,5 @@
           * [I can't import projects from one of my GitHub organisations](asdf1/asdf2/asdf3/asdf4/asdf5/asdf6/README.md)
             * [Does Snyk have an API?](asdf1/asdf2/asdf3/asdf4/asdf5/asdf6/asdf7.md)
 * [Why do some tests stop running when I have used my limit?](why-do-some-tests-stop-running-when-i-have-used-my-limit.md)
-* [test it all out](user-docs/docs/README.md)
+* [test it all out](docs.md)
 
