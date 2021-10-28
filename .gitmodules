@@ -2,3 +2,6 @@
 [submodule "user-docs"]
 	path = user-docs
 	url = https://github.com/snyk/user-docs
+[submodule "book/snyk"]
+	path = book/snyk
+	url = https://github.com/snyk/snyk.git
