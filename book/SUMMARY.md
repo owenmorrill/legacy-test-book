@@ -4,6 +4,5 @@
 * [Test](test.md)
 * [snyk](snyk/README.md)
   * [help](snyk/help/README.md)
-    * [CLI stuff](snyk/help/README.md)
-    * [Help help](snyk/help/commands-docs/help.md)
-
+    *
+    * [Help help](snyk/help/help-help.md)
