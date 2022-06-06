@@ -1,3 +1,7 @@
+---
+layout: landing
+---
+
 # All the gifs from design social!
 
 Negative, it didn't go in.
